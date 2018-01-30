@@ -5,13 +5,11 @@ The original design/idea is from [Jay Silver](http://drawdio.com).
 
 ![Drawdio](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_v10.jpg)
 
+Assembly Instructions:
+[English](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_en.pdf), 
+[German](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_de.pdf), 
+[Italian](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_it.pdf)
+
 
 ## Shop
 * [Drawdio Kit](http://www.watterott.com/en/Drawdio-Kit)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/Drawdio/tree/master/hardware)
-* [English Assembly Instructions](https://github.com/watterott/Drawdio/raw/master/docs/Drawdio_en.pdf)
-* [German Assembly Instructions](https://github.com/watterott/Drawdio/raw/master/docs/Drawdio_de.pdf)
-* [Italian Assembly Instructions](https://github.com/watterott/Drawdio/raw/master/docs/Drawdio_it.pdf)
