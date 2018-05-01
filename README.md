@@ -5,10 +5,8 @@ The original design/idea is from [Jay Silver](http://drawdio.com).
 
 ![Drawdio](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_v10.jpg)
 
-Assembly Instructions:
+* Assembly Instructions:
 [English](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_en.pdf), 
 [German](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_de.pdf), 
 [Italian](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_it.pdf)
-
-
-## [Documentation](http://learn.watterott.com/learn-to-solder/drawdio/)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/learn-to-solder/drawdio/)**
