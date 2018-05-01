@@ -12,7 +12,3 @@ Assembly Instructions:
 
 
 ## [Documentation](http://learn.watterott.com/learn-to-solder/drawdio/)
-
-
-## Shop
-* [Drawdio Kit](http://www.watterott.com/en/Drawdio-Kit)
