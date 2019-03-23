@@ -9,4 +9,4 @@ The original design/idea is from [Jay Silver](http://drawdio.com).
 [English](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_en.pdf), 
 [German](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_de.pdf), 
 [Italian](https://github.com/watterott/Drawdio/raw/master/hardware/Drawdio_it.pdf)
-* **[Documentation on learn.watterott.com](http://learn.watterott.com/learn-to-solder/drawdio/)**
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
